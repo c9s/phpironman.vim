@@ -1,7 +1,7 @@
 phpironman colorscheme for vim
 ==============================
 
-![Screenshot](https://www.dropbox.com/s/6aj48q6u1xnua7z/Screenshot%202015-04-14%2018.48.23.png?dl=0)
+![Screenshot](https://raw.githubusercontent.com/c9s/phpironman.vim/master/screenshots/01.png)
 
 Instructions
 ------------
