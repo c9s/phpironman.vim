@@ -8,7 +8,7 @@ hi clear
 if exists("syntax_on")
    syntax reset
 endif
-let colors_name = "ironman"
+let colors_name = "phpironman"
 
 hi Normal                    guifg=#F4BA5F guibg=#570700
                              
